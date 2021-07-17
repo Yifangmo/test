@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1615569123 source:d:\users\yifangmo\projects\test\main.cpp
+	"invert_a_binary_tree.h"
+
+1615367359 d:\users\yifangmo\projects\test\count_leaves.h
+	"utils_includes.h"
+
+1615367484 source:d:\users\yifangmo\projects\test\countleaves.cpp
+	"count_leaves.h"
+
+1615543564 d:\users\yifangmo\projects\test\utils_includes.h
+	<iostream>
+	<map>
+	<string>
+	<cstring>
+	<algorithm>
+	<queue>
+	<vector>
+	<stack>
+
+1615367000 source:d:\users\yifangmo\projects\test\headofgangs.cpp
+	"head_of_gangs.h"
+
+1615367408 d:\users\yifangmo\projects\test\head_of_gangs.h
+	"utils_includes.h"
+
+1615367724 d:\users\yifangmo\projects\test\quick_sort.h
+	"utils_includes.h"
+
+1615398433 source:d:\users\yifangmo\projects\test\quicksort.cpp
+	"quick_sort.h"
+
+1615435433 d:\users\yifangmo\projects\test\peek_median.h
+	"utils_includes.h"
+
+1615437199 source:d:\users\yifangmo\projects\test\peekmedian.cpp
+	"peek_median.h"
+	"string"
+
+1615541519 d:\users\yifangmo\projects\test\binary_tree_structure.h
+	"utils_includes.h"
+
+1615543081 source:d:\users\yifangmo\projects\test\binarytreestructure.cpp
+	"binary_tree_structure.h"
+
+1615548330 d:\users\yifangmo\projects\test\insertion_or_heap_sort.h
+	"utils_includes.h"
+
+1615547854 source:d:\users\yifangmo\projects\test\insertionorheapsort.cpp
+	"insertion_or_heap_sort.h"
+
+1615564891 d:\users\yifangmo\projects\test\cars_on_campus.h
+	"utils_includes.h"
+
+1615565733 source:d:\users\yifangmo\projects\test\carsoncampus.cpp
+	"cars_on_campus.h"
+
+1615569114 d:\users\yifangmo\projects\test\invert_a_binary_tree.h
+	"utils_includes.h"
+
+1615571245 source:d:\users\yifangmo\projects\test\invertabinarytree.cpp
+	"invert_a_binary_tree.h"
+
